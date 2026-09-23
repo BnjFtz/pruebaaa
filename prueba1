@@ -1,17 +1,29 @@
 #EXTM3U
 
 #EXTINF:-1, Canal 4
-#EXT-X-DRM:LICENSE_TYPE=CLEARKEY,CLEARKEY=88928eece082402b99598ae4ecc08be6:d03c32df212148b40eecb445222e1288
-https://boldmss.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&Origin=https://boldmss.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88928eece082402b99598ae4ecc08be6:d03c32df212148b40eecb445222e1288
+https://boldmss.com|User-Agent=Mozilla/5.0&Origin=https://boldmss.com
 
 #EXTINF:-1, Saeta HD
-#EXT-X-DRM:LICENSE_TYPE=CLEARKEY,CLEARKEY=ff44d9aca7fe481da98900d1f79cb345:bca3a993208129b9bd4eed159d8cdfb2
-https://boldmss.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&Origin=https://boldmss.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff44d9aca7fe481da98900d1f79cb345:bca3a993208129b9bd4eed159d8cdfb2
+https://boldmss.com|User-Agent=Mozilla/5.0&Origin=https://boldmss.com
 
 #EXTINF:-1, Teledoce HD
-#EXT-X-DRM:LICENSE_TYPE=CLEARKEY,CLEARKEY=2e36b18dc45c4d83868da659f5354938:297464517e9c7f055e12095e6ac2b07b
-https://boldmss.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&Origin=https://boldmss.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e36b18dc45c4d83868da659f5354938:297464517e9c7f055e12095e6ac2b07b
+https://boldmss.com|User-Agent=Mozilla/5.0&Origin=https://boldmss.com
 
 #EXTINF:-1, Canal 21
-#EXT-X-DRM:LICENSE_TYPE=CLEARKEY,CLEARKEY=c926dba1fe354d529601ee6e38fe0a4b:41c5da6d1608e6377ff86c0ded7d042a
-https://boldmss.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&Origin=https://boldmss.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c926dba1fe354d529601ee6e38fe0a4b:41c5da6d1608e6377ff86c0ded7d042a
+https://boldmss.com|User-Agent=Mozilla/5.0&Origin=https://boldmss.com
