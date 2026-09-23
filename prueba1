@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="PRUEBA",Prueba MPD sin DRM
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
