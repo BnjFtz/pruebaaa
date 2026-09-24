@@ -88,9 +88,7 @@ https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd
 
-#EXTINF:-1 group-title="Deportes Premium",CANAL UNIVERSIDAD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f
-https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_Universidad.m3u8
+#EXTINF:-1 tvg-id="CanalUniversidad.ar" tvg-logo="https://i.imgur.com/trmPKYw.png" group-title="Argentina",Canal Universidad
+https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 
 
