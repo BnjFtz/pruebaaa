@@ -1,29 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, Canal 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88928eece082402b99598ae4ecc08be6:d03c32df212148b40eecb445222e1288
-https://boldmss.com|User-Agent=Mozilla/5.0&Origin=https://boldmss.com
-
-#EXTINF:-1, Saeta HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff44d9aca7fe481da98900d1f79cb345:bca3a993208129b9bd4eed159d8cdfb2
-https://boldmss.com|User-Agent=Mozilla/5.0&Origin=https://boldmss.com
-
-#EXTINF:-1, Teledoce HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e36b18dc45c4d83868da659f5354938:297464517e9c7f055e12095e6ac2b07b
-https://boldmss.com|User-Agent=Mozilla/5.0&Origin=https://boldmss.com
-
-#EXTINF:-1, Canal 21
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c926dba1fe354d529601ee6e38fe0a4b:41c5da6d1608e6377ff86c0ded7d042a
-https://boldmss.com|User-Agent=Mozilla/5.0&Origin=https://boldmss.com
+#EXTINF:-1 group-title="PRUEBA",DSPORTS 2
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AivAndroidPlayer/1.0 (AndroidDevice) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
