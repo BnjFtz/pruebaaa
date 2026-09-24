@@ -80,3 +80,8 @@ https://cdn-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGOJ2Q4cUN2vnmKwyRp74TxVzc3kS7WnXPpK4YI7fQA&s" group-title="Deportes Premium",CLARO SPORTS
 https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Deportes Premium",CANAL UNIVERSIDAD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f
+https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_Universidad.m3u8
